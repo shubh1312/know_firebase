@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700122780888",
+    "firebase_url": "https://fir-know.firebaseio.com",
+    "project_id": "fir-know",
+    "storage_bucket": "fir-know.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700122780888:android:70fc3b6d8993f19dfdb3ad",
+        "android_client_info": {
+          "package_name": "co.shubhamgothi.firebaseknow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700122780888-g8kmidbqnrmf2dt6rbnlna9hadsbj7oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.shubhamgothi.firebaseknow",
+            "certificate_hash": "a0cd8d542a30b14e6f8751b51015e494cd8667dc"
+          }
+        },
+        {
+          "client_id": "700122780888-dq8do6r22ssavi962jndh6pqk87t8sep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj9bvOFIb4hV5qugu4Ws8btX_zXHBF4pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700122780888-dq8do6r22ssavi962jndh6pqk87t8sep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
